@@ -20,7 +20,14 @@ I am a **Technical Lead** with over **12 years of experience** in developing hig
 
 ---
 
-### 🛠️ **Tech Stack and Expertise**
+### 🚀 **Languages and Tools** 🛠️
+
+**👉 Programming Language**
+- JavaScript, PHP and Python
+
+**👉 Databases**
+- (SQL) PostgreSQL, MySQL, MS-SQL, Oracle
+- (NoSQL) MongoDB, DynamoDB, Redis
 
 - **Programming Languages**: PHP, Python, JavaScript, TypeScript
 - **Frameworks**: Laravel, CodeIgniter, Zend Framework, AngularJS, Angular 17, Node.js
