@@ -25,16 +25,21 @@ I am a **Technical Lead** with over **12 years of experience** in developing hig
 **👉 Programming Language**
 - JavaScript, PHP and Python
 
+**👉 Back-end && Front-end**
+- Node.js, Express.js, Nginx, Laravel, Codeigniter, Zend, Flask and FastAPI
+- AngularJS, Angular 17, React, jQuery, HTML, CSS, Bootstrap etc.
+
 **👉 Databases**
 - (SQL) PostgreSQL, MySQL, MS-SQL, Oracle
 - (NoSQL) MongoDB, DynamoDB, Redis
 
-- **Programming Languages**: PHP, Python, JavaScript, TypeScript
-- **Frameworks**: Laravel, CodeIgniter, Zend Framework, AngularJS, Angular 17, Node.js
-- **Databases**: MySQL, PostgreSQL, MS-SQL, Oracle, IBM DB2, DynamoDB, Redis
-- **Cloud Services**: AWS (S3, SQS, Lambda, Redshift, DynamoDB, API Gateways), ElasticSearch
-- **Other Tools**: Git, Docker, Jenkins, JIRA, PHPUnit, Composer
-- **Methodologies**: Agile, Scrum, DevOps, TDD (Test-Driven Development)
+**👉 AWS Cloud Services**
+- AWS (EC2, S3, SQS, Severless, Lambda, Redshift, DynamoDB), API Gateways, ElasticSearch
+
+**👉 Miscellaneous**
+- **Version control**: Github and Gitlab
+- **Other Tools**: Docker, Jenkins, JIRA, PHPUnit, Composer and DevOps
+- **Methodologies**: Agile, Scrum, DDD (Domain-Driven Design)
 
 ---
 
